@@ -56,13 +56,14 @@ I enjoy solving complex problems with simple solutions and creating clean, elega
 
 📧 **Email**: [poomabcde11@gmail.com](mailto:poomabcde11@gmail.com)  
 🔗 **Portfolio**: [GitHub Portfolio](https://github.com/LostInSyntaxx)  
-🐦 **Discord**: sqlalchemy1 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)  
+🐦 **Discord**: sqlalchemy1 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/303850082833399809)
 
 ---
 
 ## 🎮 Discord Status  
 <div align="center">  
-  <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID" alt="Discord Status">  
+  <img src="https://lanyard.cnrad.dev/api/303850082833399809" alt="Discord Status">
 </div>  
 
 ---
