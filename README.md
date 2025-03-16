@@ -63,7 +63,9 @@ I enjoy solving complex problems with simple solutions and creating clean, elega
 
 ## 🎮 Discord Status  
 <div align="center">  
-  <img src="https://lanyard.cnrad.dev/api/303850082833399809" alt="Discord Status">
+ <a href="https://discord.com/users/303850082833399809">
+    <img src="https://lanyard.cnrad.dev/api/303850082833399809" alt="Discord Presence">
+</a>
 </div>  
 
 ---
