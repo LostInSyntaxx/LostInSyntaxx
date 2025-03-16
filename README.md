@@ -1,42 +1,36 @@
-<h1 align="center">  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
-  <b>Hi, I'm Man (aka @LostInSyntaxx)</b>  
-</h1>  
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  <b>Hi, I'm Man (aka @LostInSyntaxx) 🚀</b>
+</h1>
 
-<p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7B93E&center=true&vCenter=true&multiline=true&width=600&height=50&lines=💻+Passionate+Developer+%7C+Code+Enthusiast+%7C+Problem+Solver;🚀+Always+learning%2C+always+growing!">
-</p>  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7B93E&center=true&vCenter=true&width=600&height=50&lines=💻+Passionate+Developer+%7C+Tech+Explorer;🚀+Creating+cool+stuff+with+code!">
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=LostInSyntaxx&color=blue&style=flat-square)
-
----
-
-## 🚧 What I'm Currently Working On  
-- 🔥 Building a **React + Tailwind Dashboard** project  
-- 🎯 Exploring **Next.js 14 and App Router**  
-- 🚀 Learning **Three.js for 3D web experiences**  
-- 📚 Writing blogs on **web development & best practices**  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LostInSyntaxx&color=blue&style=for-the-badge&label=PROFILE+VIEWS">
+</p>
 
 ---
 
 ## 🚀 About Me  
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250px">  
+💡 **I love solving complex problems with simple solutions**  
+🔥 Passionate about **Web Dev, Data Structures & Algorithms, Open Source**  
 
-💡 **I love coding challenges, exploring new technologies, and pushing my limits.**  
-🔥 Passionate about **Web Development**, **Data Structures & Algorithms**, and **Mentoring Developers**.  
-
----
-
-## 🛠 Technology Stack  
-<div align="center">  
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,tailwind,php,mysql,github" />  
-</div>  
-
-
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px">
+</p>
 
 ---
 
-## 🎧 Now Playing on Spotify  
+## 🎨 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,php,mysql,prisma,github" />
+</p>
+
+---
+
+## 🎵 Now Playing on Spotify  
 <div align="center">  
   <a href="https://open.spotify.com/user/z17o1lgsmacfizmz24jri1sa0">  
     <img src="https://novatorem-lostinsyntaxx.vercel.app/api/spotify" alt="Spotify Now Playing" width="50%" />  
@@ -45,30 +39,30 @@
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=LostInSyntaxx&show_icons=true&theme=radical" width="48%" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LostInSyntaxx&theme=radical" width="48%" />
-</div>  
+## 🔥 GitHub Stats  
 
----
-
-## 🏆 GitHub Trophies  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LostInSyntaxx&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LostInSyntaxx&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=LostInSyntaxx&show_icons=true&theme=radical" width="48%">
 </div>
 
 ---
 
-## 📈 Contribution Graph  
-
+## 🎯 Contribution Graph  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LostInSyntaxx&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LostInSyntaxx&theme=radical">
 </p>
 
 ---
 
-## 🚀 Pinned Repositories  
+## 🏆 GitHub Snake 🐍  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LostInSyntaxx/LostInSyntaxx/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 🚀 Featured Repositories  
 
 <p align="center">
   <a href="https://github.com/LostInSyntaxx/my-portfolio">
@@ -87,7 +81,7 @@
 
 ---
 
-## 🌐 Connect with Me  
+## 🌎 Connect with Me  
 
 📧 **Email**: [poomabcde11@gmail.com](mailto:poomabcde11@gmail.com)  
 🔗 **Portfolio**: [GitHub Portfolio](https://github.com/LostInSyntaxx)  
@@ -102,20 +96,11 @@
 ---
 
 ## 🎮 Discord Status  
-<div align="center">  
- <a href="https://discord.com/users/303850082833399809">
-    <img src="https://lanyard.cnrad.dev/api/303850082833399809" alt="Discord Presence">
-</a>
-</div>  
-
----
-
-## 🌐 Join My Discord Community  
-<div align="center">  
-  <a href="https://discord.gg/YOUR_SERVER_INVITE">
-    <img src="https://img.shields.io/badge/Join_My_Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
+<p align="center">
+  <a href="https://discord.com/users/303850082833399809">
+    <img src="https://lanyard.cnrad.dev/api/303850082833399809">
   </a>
-</div>  
+</p>
 
 ---
 
@@ -126,14 +111,14 @@
 
 ---
 
-## 💡 Random Dev Quote  
+## 🔥 Random Dev Quote  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
 
 ---
 
-## 🎯 Fun Fact  
+## 🤣 Fun Fact  
 💡 "99 little bugs in the code, 99 little bugs. Take one down, patch it around, 127 little bugs in the code..."  
 
 ---
@@ -141,4 +126,4 @@
 <h3 align="center">⭐ Developer Program Member 🚀</h3>  
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKsQ1U1YYJgBxcM/giphy.gif" width="100px"/>
-</p>  
+</p>
