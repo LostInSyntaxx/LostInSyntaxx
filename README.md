@@ -34,10 +34,17 @@
 
 ## 🛠 Development Tools  
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDE-WebStorm-007ACC?style=for-the-badge&logo=webstorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  </a>
+  <a href="https://www.jetbrains.com/webstorm/">
+    <img src="https://img.shields.io/badge/IDE-WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white">
+  </a>
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
+  </a>
 </p>
+
 
 ## 🎵 Now Playing on Spotify  
 <div align="center">  
