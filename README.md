@@ -1,6 +1,6 @@
 <h1 align="center">  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
-  Hi, I'm <strong>Man</strong> (aka @LostInSyntaxx)  
+  <span style="color:#FFA500"><b>Hi, I'm Man (aka @LostInSyntaxx)</b></span>  
 </h1>  
 
 <p align="center">  
@@ -12,18 +12,26 @@
 ---
 
 ## 🚀 About Me  
-💡 **I love coding challenges, exploring new technologies, and pushing my limits.**  
-I enjoy solving complex problems with simple solutions and creating clean, elegant code.  
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250px">  
 
+💡 **I love coding challenges, exploring new technologies, and pushing my limits.**  
 🔥 Passionate about **Web Development**, **Data Structures & Algorithms**, and **Mentoring Developers**.  
 
 ---
 
 ## 🛠 Technology Stack  
-
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=js,nodejs,react,tailwind,php,mysql,github" />  
 </div>  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>  
 
 ---
 
@@ -44,7 +52,6 @@ I enjoy solving complex problems with simple solutions and creating clean, elega
 ---
 
 ## 📊 GitHub Stats  
-
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=LostInSyntaxx&show_icons=true&theme=radical" width="48%" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LostInSyntaxx&theme=radical" width="48%" />
@@ -52,12 +59,24 @@ I enjoy solving complex problems with simple solutions and creating clean, elega
 
 ---
 
+## 🏆 GitHub Trophies  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LostInSyntaxx&theme=radical&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
 ## 🌐 Connect with Me  
 
 📧 **Email**: [poomabcde11@gmail.com](mailto:poomabcde11@gmail.com)  
 🔗 **Portfolio**: [GitHub Portfolio](https://github.com/LostInSyntaxx)  
-🐦 **Discord**: sqlalchemy1 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/303850082833399809)
+🐦 **Discord**: sqlalchemy1  
+
+<p align="center">
+  <a href="https://discord.com/users/303850082833399809">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
 
 ---
 
@@ -94,4 +113,4 @@ I enjoy solving complex problems with simple solutions and creating clean, elega
 <h3 align="center">⭐ Developer Program Member 🚀</h3>  
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKsQ1U1YYJgBxcM/giphy.gif" width="100px"/>
-</p>
+</p>  
