@@ -34,16 +34,9 @@
 
 ## 🛠 Development Tools  
 <p align="center">
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=black">
-  </a>
-  <a href="https://www.jetbrains.com/webstorm/">
-    <img src="https://img.shields.io/badge/WebStorm-21A8F0?style=for-the-badge&logo=webstorm&logoColor=white&labelColor=black">
-  </a>
-  <a href="https://visualstudio.microsoft.com/">
-    <img src="https://img.shields.io/badge/Visual_Studio-7A0FC1?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=black">
-  </a>
+  <img src="https://skillicons.dev/icons?i=vscode,webstorm,visualstudio" width="150px" />
 </p>
+
 
 
 
