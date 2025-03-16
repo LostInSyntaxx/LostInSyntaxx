@@ -23,13 +23,12 @@
 
 ---
 
-## 🎨 Tech Stack  
+## 🎨 Technology Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,php,mysql,prisma,github" />
 </p>
 
----
-
+## 🛠 Development Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/IDE-WebStorm-007ACC?style=for-the-badge&logo=webstorm&logoColor=white" />
