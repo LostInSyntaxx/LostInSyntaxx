@@ -7,6 +7,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7B93E&center=true&vCenter=true&multiline=true&width=600&height=50&lines=💻+Passionate+Developer+%7C+Code+Enthusiast+%7C+Problem+Solver;🚀+Always+learning%2C+always+growing!">
 </p>  
 
+![Profile Views](https://komarev.com/ghpvc/?username=LostInSyntaxx&color=blue&style=flat-square)
+
 ---
 
 ## 🚀 About Me  
@@ -37,25 +39,29 @@ I enjoy solving complex problems with simple solutions and creating clean, elega
 ## 📊 GitHub Stats  
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=LostInSyntaxx&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostInSyntaxx&layout=compact&theme=radical" alt="Top Languages" width="48%" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=LostInSyntaxx&show_icons=true&theme=radical" width="48%" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LostInSyntaxx&theme=radical" width="48%" />
 </div>  
 
-🔹 **Total Stars**: ⭐  
-🔹 **Total Commits**: 🔥  
-🔹 **Total PRs**: 🚀  
-🔹 **Total Issues**: 🛠  
-🔹 **Contributed To**: 🔗  
+---
+
+## 🚀 Featured Projects  
+🔹 [📌 My Portfolio](https://github.com/LostInSyntaxx/my-portfolio)  
+🔹 [📌 API Boilerplate](https://github.com/LostInSyntaxx/api-boilerplate)  
+🔹 [📌 React Dashboard](https://github.com/LostInSyntaxx/react-dashboard)  
+
+---
+
+## 🎯 Fun Fact  
+💡 "99 little bugs in the code, 99 little bugs. Take one down, patch it around, 127 little bugs in the code..."  
 
 ---
 
 ## 🌐 Connect with Me  
 
-<p align="center">  
-  📧 **Email**: [poomabcde11@gmail.com](mailto:poomabcde11@gmail.com)  
-  🔗 **Portfolio**: [GitHub Portfolio](https://github.com/LostInSyntaxx)  
-  🐦 **Discord**: sqlalchemy1  
-</p>  
+📧 **Email**: [poomabcde11@gmail.com](mailto:poomabcde11@gmail.com)  
+🔗 **Portfolio**: [GitHub Portfolio](https://github.com/LostInSyntaxx)  
+🐦 **Discord**: sqlalchemy1  
 
 ---
 
