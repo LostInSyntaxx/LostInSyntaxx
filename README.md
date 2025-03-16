@@ -32,8 +32,14 @@ I enjoy solving complex problems with simple solutions and creating clean, elega
   <a href="https://open.spotify.com/user/z17o1lgsmacfizmz24jri1sa0">  
     <img src="https://novatorem-lostinsyntaxx.vercel.app/api/spotify" alt="Spotify Now Playing" width="50%" />  
   </a>  
-</div>
+</div>  
 
+---
+
+## 🔥 My Top Tracks  
+<div align="center">  
+  <img src="https://spotify-github-profile.vercel.app/api/top-tracks?user=z17o1lgsmacfizmz24jri1sa0&theme=radical" alt="Top Tracks" width="60%" />  
+</div>  
 
 ---
 
@@ -50,19 +56,20 @@ I enjoy solving complex problems with simple solutions and creating clean, elega
 
 📧 **Email**: [poomabcde11@gmail.com](mailto:poomabcde11@gmail.com)  
 🔗 **Portfolio**: [GitHub Portfolio](https://github.com/LostInSyntaxx)  
+🐦 **Discord**: sqlalchemy1 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)  
 
 ---
 
 ## 🎮 Discord Status  
 <div align="center">  
-  <img src="https://lanyard.cnrad.dev/api/303850082833399809" alt="Discord Status">  
+  <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID" alt="Discord Status">  
 </div>  
 
 ---
 
 ## 🌐 Join My Discord Community  
 <div align="center">  
-  <a href="https://discord.gg/zKkPKyhu">
+  <a href="https://discord.gg/YOUR_SERVER_INVITE">
     <img src="https://img.shields.io/badge/Join_My_Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
   </a>
 </div>  
