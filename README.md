@@ -57,7 +57,7 @@
 
 ## 🏆 GitHub Snake 🐍  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LostInSyntaxx/LostInSyntaxx/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/LostInSyntaxx/LostInSyntaxx/raw/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
