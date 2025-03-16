@@ -29,10 +29,11 @@ I enjoy solving complex problems with simple solutions and creating clean, elega
 
 ## 🎧 Now Playing on Spotify  
 <div align="center">  
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">  
+  <a href="https://open.spotify.com/user/z17o1lgsmacfizmz24jri1sa0">  
     <img src="https://novatorem-lostinsyntaxx.vercel.app/api/spotify" alt="Spotify Now Playing" width="50%" />  
   </a>  
-</div>  
+</div>
+
 
 ---
 
