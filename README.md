@@ -34,8 +34,9 @@
 
 ## 🛠 Development Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,webstorm,visualstudio" width="150px" />
+  <img src="https://skillicons.dev/icons?i=vscode,webstorm,visualstudio,linux,windows" width="200px" />
 </p>
+
 
 
 
