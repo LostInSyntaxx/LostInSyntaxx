@@ -30,6 +30,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-WebStorm-007ACC?style=for-the-badge&logo=webstorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+</p>
+
 ## 🎵 Now Playing on Spotify  
 <div align="center">  
   <a href="https://open.spotify.com/user/z17o1lgsmacfizmz24jri1sa0">  
