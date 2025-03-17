@@ -37,13 +37,10 @@
   <img src="https://skillicons.dev/icons?i=vscode,webstorm,visualstudio,linux,windows" width="300px" />
 </p>
 
-
-
-## ⏳ Coding Activity
+## 💬 Programming Wisdom
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LostInSyntaxx&layout=compact&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Programming Quotes" />
 </p>
-
 
 
 ## 🎧 Now Playing on Spotify  
