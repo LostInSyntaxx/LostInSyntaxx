@@ -44,9 +44,11 @@
 
 ## 🎵 Now Playing on Spotify  
 <div align="center">  
-  <a href="https://open.spotify.com/user/z17o1lgsmacfizmz24jri1sa0">  
-    <img src="https://novatorem-lostinsyntaxx.vercel.app/api/spotify" alt="Spotify Now Playing" width="50%" />  
-  </a>  
+ ## 🎧 Now Playing on Spotify  
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=z17o1lgsmacfizmz24jri1sa0&cover_image=true&theme=novatorem" alt="Spotify Now Playing" width="50%" />
+</p>
+
 </div>  
 
 ---
