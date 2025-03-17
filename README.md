@@ -42,12 +42,13 @@
 
 
 
-## 🎵 Now Playing on Spotify  
-<div align="center">  
- ## 🎧 Now Playing on Spotify  
+## 🎧 Now Playing on Spotify  
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=z17o1lgsmacfizmz24jri1sa0&cover_image=true&theme=novatorem" alt="Spotify Now Playing" width="50%" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=z17o1lgsmacfizmz24jri1sa0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=z17o1lgsmacfizmz24jri1sa0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="50%" />
+  </a>
 </p>
+
 
 </div>  
 
