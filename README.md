@@ -37,10 +37,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,webstorm,visualstudio,linux,windows" width="300px" />
 </p>
 
-## 💬 Programming Wisdom
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Programming Quotes" />
-</p>
+
 
 
 ## 🎧 Now Playing on Spotify  
