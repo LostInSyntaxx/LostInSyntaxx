@@ -15,7 +15,7 @@
 
 ## 🚀 About Me  
 💡 **I love solving complex problems with simple solutions**  
-🔥 Passionate about **Web Dev, Data Structures & Algorithms, Open Source**  
+🔥 Passionate about **Web Dev, Open Source**  
 🛠 **I develop using:**  
 - **Editor:** [Visual Studio Code](https://code.visualstudio.com/)  
 - **IDE:** [WebStorm](https://www.jetbrains.com/webstorm/) & [Visual Studio](https://visualstudio.microsoft.com/)  
