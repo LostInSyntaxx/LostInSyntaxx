@@ -75,62 +75,21 @@
 
 <br/>
 
----
 
 ### 🔥 **System Analytics (GitHub Stats)**
 
-### 🔥 **System Analytics (GitHub Stats)**
-
 <div align="center">
-
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=LostInSyntaxx&theme=radical&hide_border=true)](https://github.com/LostInSyntaxx)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LostInSyntaxx&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/LostInSyntaxx)
-
-<br/>
-
-[![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LostInSyntaxx&theme=radical)](https://github.com/LostInSyntaxx)
-
+  <img src="https://raw.githubusercontent.com/LostInSyntaxx/LostInSyntaxx/output/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 </div>
 
 <br/>
 
----
 
-### 🏆 **Contribution Matrix 🐍**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LostInSyntaxx/LostInSyntaxx/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
-</div>
+
 
 <br/>
 
----
-
-### 🚀 **Deployed Projects**
-
-<div align="center">
-  <a href="https://github.com/LostInSyntaxx/my-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LostInSyntaxx&repo=my-portfolio&theme=radical&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/LostInSyntaxx/api-boilerplate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LostInSyntaxx&repo=api-boilerplate&theme=radical&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf" alt="API Boilerplate" />
-  </a>
-  <a href="https://github.com/LostInSyntaxx/react-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LostInSyntaxx&repo=react-dashboard&theme=radical&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf" alt="React Dashboard" />
-  </a>
-</div>
-
-<br/>
-
----
-
-### ✍️ **DevLogs**
-
-- 🔹 [How to Build a Modern Dashboard with React & Tailwind](https://dev.to/lostinsyntaxx/react-tailwind-dashboard-101)
-- 🔹 [JavaScript ES6 Features You Should Know](https://dev.to/lostinsyntaxx/js-es6-must-know)
-- 🔹 [Next.js vs React: When to Choose What?](https://dev.to/lostinsyntaxx/nextjs-vs-react)
-
----
 
 <div align="center">
   <h3>⚡ System Status: Online</h3>
