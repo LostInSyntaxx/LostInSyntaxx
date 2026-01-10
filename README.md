@@ -79,23 +79,17 @@
 
 ### 🔥 **System Analytics (GitHub Stats)**
 
+### 🔥 **System Analytics (GitHub Stats)**
+
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/LostInSyntaxx">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=LostInSyntaxx&theme=radical&hide_border=true&background=0d1117&ring=2dd4bf&fire=2dd4bf&currStreakNum=cad3f5" width="100%" alt="Streak Stats" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/LostInSyntaxx">
-          <img src="https://github-readme-stats.vercel.app/api?username=LostInSyntaxx&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf" width="100%" alt="GitHub Stats" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LostInSyntaxx&theme=radical" width="100%" alt="Contribution Graph" />
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=LostInSyntaxx&theme=radical&hide_border=true)](https://github.com/LostInSyntaxx)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LostInSyntaxx&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/LostInSyntaxx)
+
+<br/>
+
+[![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LostInSyntaxx&theme=radical)](https://github.com/LostInSyntaxx)
+
 </div>
 
 <br/>
