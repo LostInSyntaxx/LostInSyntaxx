@@ -1,161 +1,142 @@
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  <b>Hi, I'm Man (aka @LostInSyntaxx) 🚀</b>
+</h1>
 
-<div align="center">
-
-# Hi, I'm Man 👋
-
-### `@LostInSyntaxx`
-
-Passionate full-stack developer • Open Source Enthusiast • Tech Explorer
-
-> Building things that are simple, fast, and enjoyable to use.
-
-<p>
-  <a href="https://github.com/LostInSyntaxx">
-    <img src="https://img.shields.io/github/followers/LostInSyntaxx?label=Followers&style=for-the-badge">
-  </a>
-  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Always-Learning-blue?style=for-the-badge">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7B93E&center=true&vCenter=true&width=600&height=50&lines=💻+Passionate+Developer+%7C+Tech+Explorer;🚀+Creating+cool+stuff+with+code!">
 </p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LostInSyntaxx&color=blue&style=for-the-badge&label=PROFILE+VIEWS">
+</p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
+💡 **I love solving complex problems with simple solutions**  
+🔥 Passionate about **Web Dev, Open Source**  
+🛠 **I develop using:**  
+- **Editor:** [Visual Studio Code](https://code.visualstudio.com/)  
+- **IDE:** [WebStorm](https://www.jetbrains.com/webstorm/) & [Visual Studio](https://visualstudio.microsoft.com/)  
 
-- 💡 I enjoy solving complex problems with clean, maintainable solutions.
-- 🌐 Mainly focused on modern web development.
-- ❤️ I enjoy contributing to open source projects.
-- 📚 Always learning new technologies and improving my craft.
 
-### Development Environment
-
-| Editor | IDE | OS |
-| :-- | :-- | :-- |
-| VS Code | WebStorm & Visual Studio | Linux & Windows |
-
----
-
-## 💻 Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
-
-### Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
-
-### Tools
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=fff)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=fff)
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px">
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🎨 Technology Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,php,mysql,prisma,github" />
+</p>
+
+## 🛠 Development Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,webstorm,visualstudio,linux,windows" width="300px" />
+</p>
+
+
+
+
+## 🎧 Now Playing on Spotify  
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=z17o1lgsmacfizmz24jri1sa0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=z17o1lgsmacfizmz24jri1sa0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="50%" />
+  </a>
+</p>
+
+
+</div>  
+
+---
+
+## 🔥 GitHub Stats  
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=LostInSyntaxx&theme=github-dark&hide_border=true" width="49%">
-<img src="https://github-readme-stats.vercel.app/api?username=LostInSyntaxx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%">
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostInSyntaxx&layout=compact&theme=github_dark&hide_border=true" width="42%">
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LostInSyntaxx&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=LostInSyntaxx&show_icons=true&theme=radical" width="48%">
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LostInSyntaxx&theme=github_dark">
-
-</div>
+## 🎯 Contribution Graph  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LostInSyntaxx&theme=radical">
+</p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://github.com/LostInSyntaxx/LostInSyntaxx/raw/output/github-contribution-grid-snake.svg">
-
-</div>
+## 🏆 GitHub Snake 🐍  
+<p align="center">
+  <img src="https://github.com/LostInSyntaxx/LostInSyntaxx/raw/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 
-## 🎧 Currently Playing
+## 🚀 Featured Repositories  
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/LostInSyntaxx/my-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LostInSyntaxx&repo=my-portfolio&theme=radical" />
+  </a>
+  <a href="https://github.com/LostInSyntaxx/api-boilerplate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LostInSyntaxx&repo=api-boilerplate&theme=radical" />
+  </a>
+</p>
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=z17o1lgsmacfizmz24jri1sa0&cover_image=true&theme=default&show_offline=false&background_color=121212">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=z17o1lgsmacfizmz24jri1sa0&cover_image=true&theme=default&show_offline=false&background_color=121212" width="45%">
-
-</a>
-
-</div>
-
----
-
-## ⭐ Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/LostInSyntaxx/my-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LostInSyntaxx&repo=my-portfolio&theme=github_dark&hide_border=true">
-</a>
-
-<a href="https://github.com/LostInSyntaxx/api-boilerplate">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LostInSyntaxx&repo=api-boilerplate&theme=github_dark&hide_border=true">
-</a>
-
-<a href="https://github.com/LostInSyntaxx/react-dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LostInSyntaxx&repo=react-dashboard&theme=github_dark&hide_border=true">
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/LostInSyntaxx/react-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LostInSyntaxx&repo=react-dashboard&theme=radical" />
+  </a>
+</p>
 
 ---
 
-## ✍️ Latest Articles
+## 🌎 Connect with Me  
 
-- Modern Dashboard with React & Tailwind
-- JavaScript ES6 Features You Should Know
-- Next.js vs React — Which Should You Choose?
+📧 **Email**: [poomabcde11@gmail.com](mailto:poomabcde11@gmail.com)  
+🔗 **Portfolio**: [GitHub Portfolio](https://github.com/LostInSyntaxx)  
+🐦 **Discord**: sqlalchemy1  
 
----
-
-## 🤝 Connect
-
-- 📧 **Email:** <poomabcde11@gmail.com>
-- 💻 **GitHub:** https://github.com/LostInSyntaxx
-- 💬 **Discord:** `sqlalchemy1`
+<p align="center">
+  <a href="https://discord.com/users/303850082833399809">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
 
 ---
 
-<div align="center">
+## 🎮 Discord Status  
+<p align="center">
+  <a href="https://discord.com/users/303850082833399809">
+    <img src="https://lanyard.cnrad.dev/api/303850082833399809">
+  </a>
+</p>
 
-> *"99 little bugs in the code... Take one down, patch it around... 127 little bugs in the code."*
+---
 
-<br>
+## ✍️ Blog & Articles  
+🔹 [How to Build a Modern Dashboard with React & Tailwind](https://dev.to/lostinsyntaxx/react-tailwind-dashboard-101)  
+🔹 [JavaScript ES6 Features You Should Know](https://dev.to/lostinsyntaxx/js-es6-must-know)  
+🔹 [Next.js vs React: When to Choose What?](https://dev.to/lostinsyntaxx/nextjs-vs-react)  
 
-<sub>Made with ❤️ by <strong>LostInSyntaxx</strong></sub>
+---
 
-</div>
-```
+## 🔥 Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
+
+---
+
+## 🤣 Fun Fact  
+💡 "99 little bugs in the code, 99 little bugs. Take one down, patch it around, 127 little bugs in the code..."  
+
+---
+
+<h3 align="center">⭐ Developer Program Member 🚀</h3>  
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ1U1YYJgBxcM/giphy.gif" width="100px"/>
+</p>
