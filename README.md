@@ -45,12 +45,12 @@ Passionate developer. Tech explorer. Building cool stuff with code.
 ### github stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LostInSyntaxx&theme=github-dark&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api?username=LostInSyntaxx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%">
+  <img src="https://streak-stats.demolab.com?user=LostInSyntaxx&theme=github-dark&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=LostInSyntaxx&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800" width="48%">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostInSyntaxx&layout=compact&theme=github_dark&hide_border=true" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostInSyntaxx&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" width="40%">
 </div>
 
 ---
@@ -85,13 +85,13 @@ Passionate developer. Tech explorer. Building cool stuff with code.
 
 <div align="center">
   <a href="https://github.com/LostInSyntaxx/my-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LostInSyntaxx&repo=my-portfolio&theme=github_dark&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LostInSyntaxx&repo=my-portfolio&theme=github_dark&hide_border=true&cache_seconds=1800">
   </a>
   <a href="https://github.com/LostInSyntaxx/api-boilerplate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LostInSyntaxx&repo=api-boilerplate&theme=github_dark&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LostInSyntaxx&repo=api-boilerplate&theme=github_dark&hide_border=true&cache_seconds=1800">
   </a>
   <a href="https://github.com/LostInSyntaxx/react-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LostInSyntaxx&repo=react-dashboard&theme=github_dark&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LostInSyntaxx&repo=react-dashboard&theme=github_dark&hide_border=true&cache_seconds=1800">
   </a>
 </div>
 
@@ -110,16 +110,6 @@ Passionate developer. Tech explorer. Building cool stuff with code.
 - **Email** — [poomabcde11@gmail.com](mailto:poomabcde11@gmail.com)
 - **GitHub** — [LostInSyntaxx](https://github.com/LostInSyntaxx)
 - **Discord** — [sqlalchemy1](https://discord.com/users/303850082833399809)
-
-<div align="center">
-  <a href="https://discord.com/users/303850082833399809">
-    <img src="https://lanyard.cnrad.dev/api/303850082833399809" width="50%">
-  </a>
-</div>
-
----
-
-### discord status
 
 <div align="center">
   <a href="https://discord.com/users/303850082833399809">
